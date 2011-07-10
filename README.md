@@ -21,8 +21,8 @@ In autoload:
         'Behat\MinkBundle'  => '/Users/Standart-User/Sites/testsuite.behat/vendor',
         'Goutte'            => '/Users/Standart-User/Sites/testsuite.behat/vendor/Goutte/src',
         'Zend'              => '/Users/Standart-User/Sites/testsuite.behat/vendor/Zend/library',
-        'Behat\SahiClient'  => '/Users/livsi/Sites/testsuite.behat/vendor/Behat/SahiClient/src',
-        'Buzz'              => '/Users/livsi/Sites/testsuite.behat/vendor/Buzz/lib',
+        'Behat\SahiClient'  => '/Users/Standart-User/Sites/testsuite.behat/vendor/Behat/SahiClient/src',
+        'Buzz'              => '/Users/Standart-User/Sites/testsuite.behat/vendor/Buzz/lib',
     // ...
 ));
 
