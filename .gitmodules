@@ -1,0 +1,27 @@
+[submodule "vendor/Behat/BehatBundle"]
+	path = vendor/Behat/BehatBundle
+	url = git://github.com/Behat/BehatBundle.git
+[submodule "vendor/Behat/Gherkin"]
+	path = vendor/Behat/Gherkin
+	url = git://github.com/Behat/Gherkin.git
+[submodule "vendor/Behat/Behat"]
+	path = vendor/Behat/Behat
+	url = git://github.com/Behat/Behat.git
+[submodule "vendor/Behat/Mink"]
+	path = vendor/Behat/Mink
+	url = git://github.com/Behat/Mink.git
+[submodule "vendor/Behat/MinkBundle"]
+	path = vendor/Behat/MinkBundle
+	url = git://github.com/Behat/MinkBundle.git
+[submodule "vendor/Goutte"]
+	path = vendor/Goutte
+	url = git://github.com/fabpot/Goutte.git
+[submodule "vendor/Zend"]
+	path = vendor/Zend
+	url = git://github.com/zendframework/zf2.git
+[submodule "vendor/Buzz"]
+	path = vendor/Buzz
+	url = git://github.com/kriswallsmith/Buzz.git
+[submodule "vendor/Behat/SahiClient"]
+	path = vendor/Behat/SahiClient
+	url = git://github.com/Behat/SahiClient.git
